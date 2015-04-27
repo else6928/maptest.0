@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
     <id>com.maptest</id>
-    <name>maptest</name>
+    <name>UI Maps</name>
     <version>1.0</version>
     <publisher>Shawna Else</publisher>
-    <url>http://</url>
+    <url>http://else.com</url>
     <description/>
     <copyright>2015 by Shawna Else</copyright>
     <icon>appicon.png</icon>

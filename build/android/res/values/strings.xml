@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-	<string name="app_name" formatted="false">maptest</string>
+	<string name="app_name" formatted="false">UI Maps</string>
 	<string name="welcome" formatted="false">Welcome to %s!</string>
 	<string name="Route" formatted="false">Find Route!</string>
 </resources>
